@@ -2,6 +2,8 @@
 
 Freelance quality assurance project for **TechSewak**: end-to-end testing of the live **Bhumae Wellness** website ([bhumaewellness.com](https://bhumaewellness.com)), a D2C botanical wellness store in India. Testing covered the customer storefront, checkout, order emails, order tracking and the store admin panel.
 
+This case study documents manual QA work done for the TechSewak team on the Bhumae Wellness e-commerce platform (org repository, private).
+
 > Published with the approval of the client. Security-related findings, order details and personal data are not included.
 
 ## At a glance
